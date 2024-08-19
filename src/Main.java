@@ -9,7 +9,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         // Путь к папке savegames
-        String saveDir = "/home/igor/Загрузки";  // Заменить на ваш путь
+        String saveDir = "/home/igor/Загрузки";  // Замените на ваш путь
 
         // Создание экземпляров GameProgress
         GameProgress game1 = new GameProgress(100, 2, 10, 50.5);
